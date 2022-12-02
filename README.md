@@ -1,2 +1,2 @@
 # C-projects
-# The Incomplete studd
+ The Incomplete stuff
